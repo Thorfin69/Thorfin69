@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Thorfin69
-- 👀 I’m interested in codes
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on none
-- 📫 How to reach me ig - vikas_5001_ 
+insaan hu  
 
 <!---
 Thorfin69/Thorfin69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
