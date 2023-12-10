@@ -1,4 +1,4 @@
-insaan hu  
+Devloper hu Majdur nahi
 
 <!---
 Thorfin69/Thorfin69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
