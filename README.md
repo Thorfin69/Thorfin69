@@ -1,6 +1,6 @@
 <img src="https://tenor.com/view/sadgirl-sakura-black-dark-moon-gif-17795388007711999896"/>
  
-<h1 align="center">Hi 👋, I'm Vikas Pasi</h1>
+<h1 align="center">Hi 👋, I'm Vikas </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thorfin69&label=Profile%20views&color=0e75b6&style=flat" alt="thorfin69" /> </p>
