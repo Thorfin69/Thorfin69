@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thorfin69&label=Profile%20views&color=0e75b6&style=flat" alt="thorfin69" /> </p>
 
-- 🌱 I’m currently learning **React , Node.js**
+- 🌱 I’m currently learning **Nextjs , Node.js**
 
 - 👯 I’m looking to collaborate on **Simple websites**
 
