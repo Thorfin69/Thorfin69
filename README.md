@@ -2,19 +2,10 @@
  
 <h1 align="center">Hi 👋, I'm Vikas </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thorfin69&label=Profile%20views&color=0e75b6&style=flat" alt="thorfin69" /> </p>
-
+-  I'm a self-taught passionate developer.
+🤔 Overthinker.
 - 🌱 I’m currently learning **Nextjs , Node.js**
-
-- 👯 I’m looking to collaborate on **Simple websites**
-
-- 🤝 I’m looking for help with **React**
-
-- 💬 Ask me about **JS , cats ,anime**
-
 - 📫 How to reach me **vikaspasi.work@gmail.com**
-
 - ⚡ Fun fact **i like cats 🐱**
 
 <h3 align="left">Connect with me:</h3>
