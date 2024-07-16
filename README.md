@@ -1,12 +1,17 @@
-<img src="https://tenor.com/view/sadgirl-sakura-black-dark-moon-gif-17795388007711999896"/>
- 
+
+
 <h1 align="center">Hi 👋, I'm Vikas </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
--  I'm a self-taught passionate developer.
-🤔 Overthinker.
-- 🌱 I’m currently learning **Nextjs , Node.js**
+ 
+ 
+-  I'm a self-taught passionate and cool developer.  🤔 Overthinker . maybe
 - 📫 How to reach me **vikaspasi.work@gmail.com**
+- 🌱 I’m currently learning **Nextjs , Node.js**
 - ⚡ Fun fact **i like cats 🐱**
+
+<a href="https://discord.com/users/634685907286360065" target="_blank">
+	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/634685907286360065?bg=1f1f1f&borderRadius=5px">
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
