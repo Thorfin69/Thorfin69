@@ -11,9 +11,7 @@
 - 📫 Reach me at **vikaspasi.work@gmail.com**
 - ⚡ Fun fact: **I like cats 🐱**
 
-<a href="https://discord.com/users/634685907286360065" target="_blank">
-	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/634685907286360065?bg=1f1f1f&borderRadius=5px">
-</a>
+
 
 ---
 
