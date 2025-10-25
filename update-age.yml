@@ -1,0 +1,31 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: "*/1 * * * *" # every minute
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Calculate age
+        run: |
+          BIRTH="2005-10-05T06:32:50" # <-- Replace with your birthdate
+          NOW=$(date -u +"%Y-%m-%dT%H:%M:%S")
+          SECONDS=$(( $(date -d "$NOW" +%s) - $(date -d "$BIRTH" +%s) ))
+          DAYS=$((SECONDS/86400))
+          HOURS=$(( (SECONDS%86400)/3600 ))
+          MINUTES=$(( (SECONDS%3600)/60 ))
+          SECS=$((SECONDS%60))
+          echo "I have survived: $DAYS days, $HOURS hours, $MINUTES minutes, $SECS seconds" > AGE.txt
+
+      - name: Update README
+        run: |
+          sed -i "/I have survived:/c\$(cat AGE.txt)" README.md
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -am "Update age"
+          git push
